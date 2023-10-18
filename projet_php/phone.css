@@ -1,0 +1,26 @@
+@media screen and (max-width: 900px) {
+        form {
+            display: flex;
+            flex-wrap: wrap;
+        }
+        
+        h3 {
+            width: 100%;
+            text-align: center;
+        }
+        input {
+            width: 70%;
+            margin: auto;
+            margin-top: 10px;
+            margin-bottom: 15px;
+        }
+
+        button {
+            width: 70%;
+            margin: auto;
+            margin-top: 10px;
+            margin-bottom: 15px;
+        }
+
+
+    }
